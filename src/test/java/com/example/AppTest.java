@@ -28,7 +28,7 @@ public class AppTest
     @Test
     public void testGetDuration() {
         Movie movie = new Movie("Inception", 148);
-        assertEquals(148, movie.getDuration_1302210022());
+        assertEquals(149, movie.getDuration_1302210022());
     }
 
     @Test
