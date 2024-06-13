@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void testGetTitle() {
         Movie movie = new Movie("Inception", 148);
-        assertEquals("Inception", movie.getTitle_1302210022());
+        assertEquals("Inception", movie.getTitle_1302210022()); 
     }
 
     @Test
